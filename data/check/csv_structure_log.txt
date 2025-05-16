@@ -1,0 +1,2801 @@
+🔍 Scansione CSV in corso...
+
+📄 File: data/predictions/historical\predictions_2025-05-16 03-36-26.csv
+  ✅ Righe: 84, Colonne: 16
+    - symbol (object) es: BTC-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 104148.1
+    - rsi (float64) es: 60.52016594587754
+    - macd (float64) es: 249.55233504643547
+    - macd_signal (float64) es: 89.05491739812854
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.8614564852928146
+    - momentum (float64) es: 0.8366252275279867
+    - volatility (float64) es: 0.0009687901560155
+    - volume_relative_% (float64) es: 85.29560635483803
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999281
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\1INCH-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: 1INCH-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.23142
+    - rsi (float64) es: 52.945319165044594
+    - macd (float64) es: -0.0011076075125267
+    - macd_signal (float64) es: -0.0018380906312991
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8381950259737005
+    - momentum (float64) es: 1.7007251153592549
+    - volatility (float64) es: 0.0026428664269313
+    - volume_relative_% (float64) es: 268.73843376787534
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998819828033448
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\AAVE-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: AAVE-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 228.626
+    - rsi (float64) es: 54.18569473646764
+    - macd (float64) es: -0.58940204320524
+    - macd_signal (float64) es: -0.9409477656644728
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7330725503813958
+    - momentum (float64) es: 2.497590280424109
+    - volatility (float64) es: 0.0064447398772682
+    - volume_relative_% (float64) es: 124.32288447025198
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998817443847656
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ADA-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ADA-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.7781
+    - rsi (float64) es: 50.62310982961666
+    - macd (float64) es: -0.0059177634864568
+    - macd_signal (float64) es: -0.0077970825098886
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7376716721981308
+    - momentum (float64) es: 1.606163489161658
+    - volatility (float64) es: 0.0065976714100906
+    - volume_relative_% (float64) es: 61.911080423992416
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998806715011596
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ALGO-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ALGO-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.2294
+    - rsi (float64) es: 50.37436561005181
+    - macd (float64) es: -0.0018973493974781
+    - macd_signal (float64) es: -0.0026624334261136
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7877409052434777
+    - momentum (float64) es: 1.9102621057307856
+    - volatility (float64) es: 0.0056992547128451
+    - volume_relative_% (float64) es: 148.8564071460387
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ALPHA-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ALPHA-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.02769
+    - rsi (float64) es: 46.385816949649566
+    - macd (float64) es: -0.0003798470751901
+    - macd_signal (float64) es: -0.0004584001176991
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.5609119447853296
+    - momentum (float64) es: 2.8221314519123664
+    - volatility (float64) es: 0.008743169398907
+    - volume_relative_% (float64) es: 196.9036627221551
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998819828033448
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ANKR-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ANKR-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.01996
+    - rsi (float64) es: 50.95464825200235
+    - macd (float64) es: -0.0001598104303179
+    - macd_signal (float64) es: -0.0002387241692113
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8913642832469745
+    - momentum (float64) es: 1.9407558733401349
+    - volatility (float64) es: 0.006048387096774
+    - volume_relative_% (float64) es: 191.3182722384405
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998818635940552
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ATOM-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ATOM-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 4.9261
+    - rsi (float64) es: 48.684280474632885
+    - macd (float64) es: -0.0387302361947305
+    - macd_signal (float64) es: -0.0506642081265085
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.699117551024063
+    - momentum (float64) es: 0.9757097468484184
+    - volatility (float64) es: 0.0043222084038412
+    - volume_relative_% (float64) es: 136.12566573386718
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\AVAX-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: AVAX-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 23.825
+    - rsi (float64) es: 47.92575193444659
+    - macd (float64) es: -0.2799378737537275
+    - macd_signal (float64) es: -0.3499740446321638
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6679303673189536
+    - momentum (float64) es: 1.9338553031275325
+    - volatility (float64) es: 0.0076126030873333
+    - volume_relative_% (float64) es: 91.14887635072438
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881386756897
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\AXS-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: AXS-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 3.08
+    - rsi (float64) es: 40.59334976008146
+    - macd (float64) es: -0.0602344787137543
+    - macd_signal (float64) es: -0.0653554726226146
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.3779795346444337
+    - momentum (float64) es: 0.8843760235833651
+    - volatility (float64) es: 0.0055501142670584
+    - volume_relative_% (float64) es: 68.93761160059013
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998799562454224
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\BAL-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: BAL-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 1.106
+    - rsi (float64) es: 45.18674097426035
+    - macd (float64) es: -0.0103247056126065
+    - macd_signal (float64) es: -0.0124627829531068
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.4805549776199192
+    - momentum (float64) es: 1.3748854262144936
+    - volatility (float64) es: 0.0009033423667569
+    - volume_relative_% (float64) es: 75.99639085708017
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998806715011596
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\BAND-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: BAND-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.8167
+    - rsi (float64) es: 41.44686076261709
+    - macd (float64) es: -0.0117346709486801
+    - macd_signal (float64) es: -0.0135583304074536
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.3739812217035698
+    - momentum (float64) es: 0.0857843137254943
+    - volatility (float64) es: 0.0035383113714007
+    - volume_relative_% (float64) es: 103.26777339206323
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881148338318
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\BAT-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: BAT-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.1561
+    - rsi (float64) es: 51.46532970335757
+    - macd (float64) es: -0.0009235175714654
+    - macd_signal (float64) es: -0.0014540222831319
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8128976116732594
+    - momentum (float64) es: 2.026143790849668
+    - volatility (float64) es: 0.0025690430314706
+    - volume_relative_% (float64) es: 5.755161465276519
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998781681060792
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\BCH-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: BCH-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 402.27
+    - rsi (float64) es: 59.32282427615815
+    - macd (float64) es: -0.0440043637831308
+    - macd_signal (float64) es: -1.4533715552743354
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 1.065319735549488
+    - momentum (float64) es: 1.8869358188541585
+    - volatility (float64) es: 0.0055995800314976
+    - volume_relative_% (float64) es: 147.63236734832788
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998817443847656
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\BTC-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: BTC-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 104148.1
+    - rsi (float64) es: 60.52016594587754
+    - macd (float64) es: 249.55233504643547
+    - macd_signal (float64) es: 89.05491739812854
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.8614564852928146
+    - momentum (float64) es: 0.8366252275279867
+    - volatility (float64) es: 0.0009687901560155
+    - volume_relative_% (float64) es: 85.29560635483803
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999281167984008
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\CHZ-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: CHZ-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.04512
+    - rsi (float64) es: 43.42324026689575
+    - macd (float64) es: -0.0006148243557218
+    - macd_signal (float64) es: -0.0006896008104408
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.443585495079648
+    - momentum (float64) es: 1.16591928251121
+    - volatility (float64) es: 0.0033355570380253
+    - volume_relative_% (float64) es: 231.91284049808132
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998819828033448
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\CKB-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: CKB-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.00538
+    - rsi (float64) es: 43.32603136803282
+    - macd (float64) es: -8.679121949646193e-05
+    - macd_signal (float64) es: -9.655805235962891e-05
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.428149075465551
+    - momentum (float64) es: -0.1113999257333815
+    - volatility (float64) es: 0.0033569563595674
+    - volume_relative_% (float64) es: 129.402892125881
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\COMP-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: COMP-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 44.94
+    - rsi (float64) es: 49.25689678452056
+    - macd (float64) es: -0.2914597665785337
+    - macd_signal (float64) es: -0.3750954227418362
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6668018970347284
+    - momentum (float64) es: 1.3303269447576016
+    - volatility (float64) es: 0.0071716718960108
+    - volume_relative_% (float64) es: 34.05687991524764
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998807907104492
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\COTI-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: COTI-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.0767
+    - rsi (float64) es: 44.13668645838064
+    - macd (float64) es: -0.0008847041914469
+    - macd_signal (float64) es: -0.0010812715072531
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.5015998382325377
+    - momentum (float64) es: -0.5188067444876752
+    - volatility (float64) es: 0.0026143790849673
+    - volume_relative_% (float64) es: 83.32516239696442
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998806715011596
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\CRV-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: CRV-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.7084
+    - rsi (float64) es: 51.89292519344018
+    - macd (float64) es: -0.0042074512394255
+    - macd_signal (float64) es: -0.0067745474079218
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7913857784205081
+    - momentum (float64) es: 1.8108651911468887
+    - volatility (float64) es: 0.0068220579874929
+    - volume_relative_% (float64) es: 47.74459633497184
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998804330825806
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\CTSI-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: CTSI-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.0778
+    - rsi (float64) es: 49.887677561275055
+    - macd (float64) es: -0.0005008013519685
+    - macd_signal (float64) es: -0.0008213325966723
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7533728337238522
+    - momentum (float64) es: 1.434159061277692
+    - volatility (float64) es: 0.0038709677419355
+    - volume_relative_% (float64) es: 63.839706248809726
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998806715011596
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\CVC-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: CVC-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.136
+    - rsi (float64) es: 43.22781524634442
+    - macd (float64) es: 0.0006338305597098
+    - macd_signal (float64) es: 0.0026073942066312
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.1032176128843525
+    - momentum (float64) es: -8.108108108108098
+    - volatility (float64) es: 0.0036630036630036
+    - volume_relative_% (float64) es: 14.555156040448324
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999278783798218
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\DASH-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: DASH-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 23.84
+    - rsi (float64) es: 47.806556579820366
+    - macd (float64) es: -0.2022109265582017
+    - macd_signal (float64) es: -0.2716934786155097
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7362963501838061
+    - momentum (float64) es: 0.4635482511588683
+    - volatility (float64) es: 0.0050590219224284
+    - volume_relative_% (float64) es: 72.06602115967341
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998810291290284
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\DENT-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: DENT-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.0008846
+    - rsi (float64) es: 48.80530106158327
+    - macd (float64) es: -1.126674848167704e-05
+    - macd_signal (float64) es: -1.4042679251584951e-05
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7238153229156349
+    - momentum (float64) es: 3.546763432049635
+    - volatility (float64) es: 0.019476777688141
+    - volume_relative_% (float64) es: 98.286869288123
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998810291290284
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\DGB-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: DGB-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.010967
+    - rsi (float64) es: 45.53501017940562
+    - macd (float64) es: -0.0001203293077636
+    - macd_signal (float64) es: -0.0001278272303624
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.5190298887592052
+    - momentum (float64) es: -0.363405105841738
+    - volatility (float64) es: 0.0035688140556369
+    - volume_relative_% (float64) es: 17.898669219039093
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998776912689208
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\DODO-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: DODO-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.0552
+    - rsi (float64) es: 46.935793775572165
+    - macd (float64) es: -0.0006634755659193
+    - macd_signal (float64) es: -0.0008475559255322
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6166609533836878
+    - momentum (float64) es: 1.2844036697247694
+    - volatility (float64) es: 0.0018083182640145
+    - volume_relative_% (float64) es: 25.61485449024253
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998787641525269
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\DOGE-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: DOGE-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.22484
+    - rsi (float64) es: 49.569844715862125
+    - macd (float64) es: -0.0023290195237609
+    - macd_signal (float64) es: -0.0027233157304609
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6211931868276687
+    - momentum (float64) es: 2.1953547566019727
+    - volatility (float64) es: 0.0093827160493826
+    - volume_relative_% (float64) es: 92.8753998440742
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881148338318
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\DOT-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: DOT-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 4.8504
+    - rsi (float64) es: 50.34901635916084
+    - macd (float64) es: -0.0325187569613154
+    - macd_signal (float64) es: -0.0459221771751511
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8036383631633525
+    - momentum (float64) es: 1.5174030431779608
+    - volatility (float64) es: 0.003662548885716
+    - volume_relative_% (float64) es: 97.3030889573239
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998812675476074
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\EGLD-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: EGLD-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 19.4
+    - rsi (float64) es: 42.31451771560166
+    - macd (float64) es: -0.2009954259780428
+    - macd_signal (float64) es: -0.1729497890039384
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.2858043918723335
+    - momentum (float64) es: 0.4660797514241318
+    - volatility (float64) es: 0.0031023784901758
+    - volume_relative_% (float64) es: 74.59881514777445
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998807907104492
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ENJ-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ENJ-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.0902
+    - rsi (float64) es: 47.169283722160856
+    - macd (float64) es: -0.0011187272436154
+    - macd_signal (float64) es: -0.0014071123700643
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6876265735622217
+    - momentum (float64) es: 1.1210762331838575
+    - volatility (float64) es: 0.0066964285714286
+    - volume_relative_% (float64) es: 103.78806050302757
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998812675476074
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\EOS-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: EOS-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.7997
+    - rsi (float64) es: 57.25640748255433
+    - macd (float64) es: -0.0027369795826966
+    - macd_signal (float64) es: -0.0068307198612465
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.9930624721170024
+    - momentum (float64) es: 2.736382322713256
+    - volatility (float64) es: 0.0073057060083132
+    - volume_relative_% (float64) es: 143.92183985887024
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ETC-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ETC-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 19.1813
+    - rsi (float64) es: 49.25854240432614
+    - macd (float64) es: -0.1595542777442098
+    - macd_signal (float64) es: -0.2106864594740052
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7156753524956071
+    - momentum (float64) es: 1.6432447327143926
+    - volatility (float64) es: 0.0030591754345596
+    - volume_relative_% (float64) es: 91.8329337627456
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881386756897
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ETH-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ETH-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 2572.13
+    - rsi (float64) es: 52.68008306961275
+    - macd (float64) es: -6.646921641216522
+    - macd_signal (float64) es: -11.120842126866702
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7912509111772078
+    - momentum (float64) es: 1.4634935286761857
+    - volatility (float64) es: 0.0021350787992129
+    - volume_relative_% (float64) es: 70.32298067972036
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998817443847656
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\FET-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: FET-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.7937
+    - rsi (float64) es: 49.28639939745484
+    - macd (float64) es: -0.0079033984873857
+    - macd_signal (float64) es: -0.0107550383713303
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.724744764649884
+    - momentum (float64) es: 1.7955623957932556
+    - volatility (float64) es: 0.0058294259282727
+    - volume_relative_% (float64) es: 183.71320195509952
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998818635940552
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\FIL-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: FIL-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 2.9813
+    - rsi (float64) es: 50.57360908428329
+    - macd (float64) es: -0.021203639034073
+    - macd_signal (float64) es: -0.0296208224929289
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8024283860066538
+    - momentum (float64) es: 1.3496056567854176
+    - volatility (float64) es: 0.0065838341549058
+    - volume_relative_% (float64) es: 145.38644579102817
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\FORTH-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: FORTH-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 2.8408
+    - rsi (float64) es: 45.47255748351872
+    - macd (float64) es: -0.0364259053642004
+    - macd_signal (float64) es: -0.0418026849227688
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.5124082009571428
+    - momentum (float64) es: 1.8390392543466696
+    - volatility (float64) es: 0.0060558841236675
+    - volume_relative_% (float64) es: 60.47658836357789
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998801946640016
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\GRT-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: GRT-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.1151
+    - rsi (float64) es: 46.044654090406745
+    - macd (float64) es: -0.0014437776298893
+    - macd_signal (float64) es: -0.0016845043512992
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.5816839313882013
+    - momentum (float64) es: 0.7969174183378528
+    - volatility (float64) es: 0.0081457475694139
+    - volume_relative_% (float64) es: 300.7638801441536
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998819828033448
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\HNT-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: HNT-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 4.162
+    - rsi (float64) es: 62.23491137347437
+    - macd (float64) es: 0.0397309718481295
+    - macd_signal (float64) es: 0.0182909613910503
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 1.000878724463906
+    - momentum (float64) es: 3.894158761857206
+    - volatility (float64) es: 0.0002403268445085
+    - volume_relative_% (float64) es: 25.891078195764365
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999282360076904
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ICP-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ICP-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 5.482
+    - rsi (float64) es: 48.84029550263372
+    - macd (float64) es: -0.04544396766327
+    - macd_signal (float64) es: -0.0581913403381463
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6484080871441589
+    - momentum (float64) es: 1.480932987782304
+    - volatility (float64) es: 0.0042132258655431
+    - volume_relative_% (float64) es: 105.91778455998666
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881386756897
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ICX-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ICX-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.1136
+    - rsi (float64) es: 67.44662745591225
+    - macd (float64) es: 0.0011012420721936
+    - macd_signal (float64) es: 2.446073165726756e-07
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.9874255816400022
+    - momentum (float64) es: 5.380333951762522
+    - volatility (float64) es: 0.001763668430335
+    - volume_relative_% (float64) es: 133.76219683156333
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999276399612428
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\IOST-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: IOST-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.004031
+    - rsi (float64) es: 47.671845317621305
+    - macd (float64) es: -3.622807191169374e-05
+    - macd_signal (float64) es: -4.903941912472836e-05
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7313425019014215
+    - momentum (float64) es: 1.281407035175875
+    - volatility (float64) es: 0.0034851879512074
+    - volume_relative_% (float64) es: 25.13019877441785
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998788833618164
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\JST-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: JST-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.03665
+    - rsi (float64) es: 50.2180184355883
+    - macd (float64) es: -0.0001277563063084
+    - macd_signal (float64) es: -0.0002193922020472
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8133278250028854
+    - momentum (float64) es: 0.5762897914379853
+    - volatility (float64) es: 0.0035345296356714
+    - volume_relative_% (float64) es: 34.68548253222237
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998798370361328
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\KAVA-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: KAVA-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.4344
+    - rsi (float64) es: 47.607805384379496
+    - macd (float64) es: -0.0041234673654024
+    - macd_signal (float64) es: -0.0050177099614812
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6332679883340118
+    - momentum (float64) es: 1.4479215319943912
+    - volatility (float64) es: 0.0055555555555555
+    - volume_relative_% (float64) es: 19.99849159052485
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998782873153688
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\KMD-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: KMD-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.143
+    - rsi (float64) es: 39.01654580153484
+    - macd (float64) es: -0.0024397151656518
+    - macd_signal (float64) es: -0.0028227992640624
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.3949886684611339
+    - momentum (float64) es: 0.4919184820800972
+    - volatility (float64) es: 0.0014005602240894
+    - volume_relative_% (float64) es: 58.81321230603991
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998784065246582
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\KSM-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: KSM-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 19.69
+    - rsi (float64) es: 45.74277557387883
+    - macd (float64) es: -0.291154324161571
+    - macd_signal (float64) es: -0.3533489465014382
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6017611587228258
+    - momentum (float64) es: 1.5471892728210457
+    - volatility (float64) es: 0.0076765609007165
+    - volume_relative_% (float64) es: 27.562093151737887
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998804330825806
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\LINK-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: LINK-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 16.2471
+    - rsi (float64) es: 47.005013057336456
+    - macd (float64) es: -0.1634468934039183
+    - macd_signal (float64) es: -0.1838836347100204
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.5365930300090065
+    - momentum (float64) es: 1.4720761457461646
+    - volatility (float64) es: 0.0036260532232956
+    - volume_relative_% (float64) es: 114.24707449552824
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\LRC-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: LRC-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.1143
+    - rsi (float64) es: 54.71251621853028
+    - macd (float64) es: -0.0005881625196646
+    - macd_signal (float64) es: -0.0010707838399477
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 1.0058851063014882
+    - momentum (float64) es: 2.511210762331836
+    - volatility (float64) es: 0.0070484581497796
+    - volume_relative_% (float64) es: 169.65711519279384
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\LTC-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: LTC-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 100.574
+    - rsi (float64) es: 56.370254804013136
+    - macd (float64) es: 0.0542664954725324
+    - macd_signal (float64) es: -0.2917359354385344
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.915903528560461
+    - momentum (float64) es: 0.966760699119569
+    - volatility (float64) es: 0.0017530229685851
+    - volume_relative_% (float64) es: 91.4480801932531
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999281167984008
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\MANA-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: MANA-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.34564
+    - rsi (float64) es: 47.02272500791077
+    - macd (float64) es: -0.0035439430720646
+    - macd_signal (float64) es: -0.0046322833206502
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6859135261596492
+    - momentum (float64) es: 1.286446886446888
+    - volatility (float64) es: 0.0017969972755202
+    - volume_relative_% (float64) es: 341.6930353622333
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998818635940552
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\MTL-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: MTL-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.8649
+    - rsi (float64) es: 51.61856597005728
+    - macd (float64) es: -0.0045135033888016
+    - macd_signal (float64) es: -0.006807981240637
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8008150253883719
+    - momentum (float64) es: 1.7649135192375591
+    - volatility (float64) es: 0.0055807464248343
+    - volume_relative_% (float64) es: 74.41934026409784
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998809099197388
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\NEAR-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: NEAR-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 2.9175
+    - rsi (float64) es: 46.735924555122494
+    - macd (float64) es: -0.0312569024379194
+    - macd_signal (float64) es: -0.0390814508071711
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6306171743650961
+    - momentum (float64) es: 1.0039813051756936
+    - volatility (float64) es: 0.0058610584382001
+    - volume_relative_% (float64) es: 98.56941962325732
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881148338318
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\NKN-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: NKN-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.0381
+    - rsi (float64) es: 50.090515436647735
+    - macd (float64) es: -0.0003906626803053
+    - macd_signal (float64) es: -0.0007170870609667
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8682628332687016
+    - momentum (float64) es: 2.972972972972983
+    - volatility (float64) es: 0.0026178010471202
+    - volume_relative_% (float64) es: 105.15086704443569
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881386756897
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\OGN-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: OGN-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.06801
+    - rsi (float64) es: 48.84467726664643
+    - macd (float64) es: -0.000589669360744
+    - macd_signal (float64) es: -0.0007684273872755
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7015848660741331
+    - momentum (float64) es: 1.43176733780761
+    - volatility (float64) es: 0.0060650887573965
+    - volume_relative_% (float64) es: 192.59232046683425
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998818635940552
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\OMG-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: OMG-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.2042
+    - rsi (float64) es: 41.39735786314479
+    - macd (float64) es: -0.0022850503929701
+    - macd_signal (float64) es: -0.0022437734934286
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.2498580415600355
+    - momentum (float64) es: 0.0980392156862773
+    - volatility (float64) es: 0.0029469548133593
+    - volume_relative_% (float64) es: 37.650258295209234
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998741149902344
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ONT-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ONT-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.15958
+    - rsi (float64) es: 52.04607381533583
+    - macd (float64) es: -0.0009821024054988
+    - macd_signal (float64) es: -0.001577549280379
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8912405045277165
+    - momentum (float64) es: 1.9094450475764688
+    - volatility (float64) es: 0.0042162230193192
+    - volume_relative_% (float64) es: 142.69776206441009
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\PERP-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: PERP-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.2941
+    - rsi (float64) es: 35.563817806178264
+    - macd (float64) es: -0.008268034876973
+    - macd_signal (float64) es: -0.0098254892738396
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.3378167107621247
+    - momentum (float64) es: -0.1019021739130511
+    - volatility (float64) es: 0.0027127839945745
+    - volume_relative_% (float64) es: 276.4241709933403
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998817443847656
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\PHA-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: PHA-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.1378
+    - rsi (float64) es: 47.678086506115335
+    - macd (float64) es: -0.001132238461949
+    - macd_signal (float64) es: -0.0016016322379509
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6612245884481414
+    - momentum (float64) es: -0.433526011560686
+    - volatility (float64) es: 0.0043352601156068
+    - volume_relative_% (float64) es: 80.35118234201677
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998806715011596
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\POLS-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: POLS-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.2917
+    - rsi (float64) es: 62.59340063947535
+    - macd (float64) es: 0.007389123127467
+    - macd_signal (float64) es: 0.006383759790022
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.990481690648548
+    - momentum (float64) es: 3.9187744923405807
+    - volatility (float64) es: 0.0986817325800377
+    - volume_relative_% (float64) es: 46.8069495728307
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999282360076904
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\QTUM-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: QTUM-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 2.423
+    - rsi (float64) es: 50.87386472783402
+    - macd (float64) es: -0.0144767657251021
+    - macd_signal (float64) es: -0.0224858190134406
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8167807704431197
+    - momentum (float64) es: 1.763964720705597
+    - volatility (float64) es: 0.0066472787702533
+    - volume_relative_% (float64) es: 102.36674743608016
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998812675476074
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\REEF-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: REEF-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.000464
+    - rsi (float64) es: 51.28139735588544
+    - macd (float64) es: -1.1159493369243849e-06
+    - macd_signal (float64) es: -9.26205081726088e-07
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.5852897812950053
+    - momentum (float64) es: -0.6423982869379055
+    - volatility (float64) es: 0.0197802197802197
+    - volume_relative_% (float64) es: 83.8736737212061
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998806715011596
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\REN-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: REN-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.01388
+    - rsi (float64) es: 53.57026682825678
+    - macd (float64) es: 0.0005313179775136
+    - macd_signal (float64) es: 0.0006208553741455
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.387659426284925
+    - momentum (float64) es: -3.275261324041812
+    - volatility (float64) es: 0.0252808988764043
+    - volume_relative_% (float64) es: 50.66816897924779
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999279975891112
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\RLC-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: RLC-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 1.2771
+    - rsi (float64) es: 45.30566890017869
+    - macd (float64) es: -0.0102548845734535
+    - macd_signal (float64) es: -0.0112682576609552
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.4697496754200168
+    - momentum (float64) es: 0.2905607036280677
+    - volatility (float64) es: 0.0008620689655172
+    - volume_relative_% (float64) es: 105.52923548222452
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881386756897
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\RSR-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: RSR-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.009055
+    - rsi (float64) es: 45.62045559535255
+    - macd (float64) es: -0.0001464580454303
+    - macd_signal (float64) es: -0.0001781833487248
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.5734568443279858
+    - momentum (float64) es: 1.604578096947944
+    - volatility (float64) es: 0.0049944506104329
+    - volume_relative_% (float64) es: 94.9364707688616
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998810291290284
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\RUNE-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: RUNE-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 1.9513
+    - rsi (float64) es: 57.06268465239257
+    - macd (float64) es: -0.0037328986855771
+    - macd_signal (float64) es: -0.010748507678778
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.944051278542
+    - momentum (float64) es: 2.9220950472071374
+    - volatility (float64) es: 0.0174679320054229
+    - volume_relative_% (float64) es: 197.26955574785748
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998817443847656
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\SAND-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: SAND-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.32635
+    - rsi (float64) es: 41.53143901702777
+    - macd (float64) es: -0.0060960252753841
+    - macd_signal (float64) es: -0.0068563837436506
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.4691217872033402
+    - momentum (float64) es: 1.6603326895520358
+    - volatility (float64) es: 0.0086228211150944
+    - volume_relative_% (float64) es: 133.991005163109
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998815059661864
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\SNX-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: SNX-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.84
+    - rsi (float64) es: 46.433172451954434
+    - macd (float64) es: -0.0116964919587164
+    - macd_signal (float64) es: -0.0136933232291138
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.561518043891541
+    - momentum (float64) es: 1.3268998793727396
+    - volatility (float64) es: 0.0071942446043165
+    - volume_relative_% (float64) es: 49.33790967774164
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998795986175536
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\SOL-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: SOL-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 172.574
+    - rsi (float64) es: 51.8587976586813
+    - macd (float64) es: -1.0829101338473208
+    - macd_signal (float64) es: -1.4818877653752385
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8010660240904707
+    - momentum (float64) es: 2.138363290936961
+    - volatility (float64) es: 0.003891684360548
+    - volume_relative_% (float64) es: 100.2841927176956
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998817443847656
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\STORJ-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: STORJ-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.3176
+    - rsi (float64) es: 49.16878006717572
+    - macd (float64) es: -0.002349593285566
+    - macd_signal (float64) es: -0.0032891335897031
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7302756778937293
+    - momentum (float64) es: 1.2432260121134888
+    - volatility (float64) es: 0.0028418061256709
+    - volume_relative_% (float64) es: 85.34031736197821
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998810291290284
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\STRAX-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: STRAX-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.05376
+    - rsi (float64) es: 45.33460634296648
+    - macd (float64) es: -0.0003356631988432
+    - macd_signal (float64) es: -0.0003141326931844
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.4800773797535594
+    - momentum (float64) es: -1.3577981651376103
+    - volatility (float64) es: 0.0099567912831111
+    - volume_relative_% (float64) es: 61.0690452466108
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998798370361328
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\SUSHI-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: SUSHI-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.7554
+    - rsi (float64) es: 43.18931000528536
+    - macd (float64) es: -0.0154480791918626
+    - macd_signal (float64) es: -0.0163043486597097
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.4083224700384236
+    - momentum (float64) es: 1.3959731543624114
+    - volatility (float64) es: 0.0109743040685224
+    - volume_relative_% (float64) es: 136.93024194890674
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\SXP-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: SXP-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.2136
+    - rsi (float64) es: 50.05854088936815
+    - macd (float64) es: -0.0015901170854301
+    - macd_signal (float64) es: -0.0024012310140672
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8312454897541587
+    - momentum (float64) es: 1.376364499288094
+    - volatility (float64) es: 0.0037593984962407
+    - volume_relative_% (float64) es: 13.100098697525963
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998782873153688
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\THETA-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: THETA-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.918
+    - rsi (float64) es: 45.31991743265283
+    - macd (float64) es: -0.0154437786669503
+    - macd_signal (float64) es: -0.0185283894862838
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.6181354041513898
+    - momentum (float64) es: 1.4364640883977913
+    - volatility (float64) es: 0.0114587924195681
+    - volume_relative_% (float64) es: 118.05279927336385
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881386756897
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\TRX-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: TRX-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.2751
+    - rsi (float64) es: 56.72148331787222
+    - macd (float64) es: 0.0005072435277037
+    - macd_signal (float64) es: 0.0001776016834522
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.7754268122330784
+    - momentum (float64) es: 0.6954612005856562
+    - volatility (float64) es: 0.0032608695652174
+    - volume_relative_% (float64) es: 97.9430446723302
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999282360076904
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\UNI-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: UNI-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 6.2937
+    - rsi (float64) es: 44.41218077853356
+    - macd (float64) es: -0.0913495839584364
+    - macd_signal (float64) es: -0.1001957688988259
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.4557803642171181
+    - momentum (float64) es: 1.3657813783439972
+    - volatility (float64) es: 0.0076530203813702
+    - volume_relative_% (float64) es: 167.20263286882175
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998819828033448
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\VET-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: VET-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.02937
+    - rsi (float64) es: 50.61761325731604
+    - macd (float64) es: -0.0002433288929695
+    - macd_signal (float64) es: -0.0003506397441893
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7987385672625031
+    - momentum (float64) es: 1.6614745586708248
+    - volatility (float64) es: 0.0037593984962405
+    - volume_relative_% (float64) es: 144.93314060578973
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\WAVES-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: WAVES-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 1.3188
+    - rsi (float64) es: 46.38839457875448
+    - macd (float64) es: -0.0227983398883397
+    - macd_signal (float64) es: -0.0268984806059794
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.4578413414418297
+    - momentum (float64) es: 3.063457330415748
+    - volatility (float64) es: 0.0240509139347294
+    - volume_relative_% (float64) es: 36.14893340816148
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998775720596312
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\WIN-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: WIN-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 6.107e-05
+    - rsi (float64) es: 48.92512990592494
+    - macd (float64) es: -3.9838997474716164e-07
+    - macd_signal (float64) es: -5.315319304384536e-07
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8463762693016108
+    - momentum (float64) es: 0.8421400264200682
+    - volatility (float64) es: 0.005267489711934
+    - volume_relative_% (float64) es: 70.9584268241311
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.99988055229187
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\XEM-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: XEM-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.019026
+    - rsi (float64) es: 52.70226719742195
+    - macd (float64) es: -5.2066221872069246e-05
+    - macd_signal (float64) es: -0.0001333019733082
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.8160112080261197
+    - momentum (float64) es: 2.887735236859181
+    - volatility (float64) es: 0.0149624644059019
+    - volume_relative_% (float64) es: 2.286696405310089
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998724460601808
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\XLM-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: XLM-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.295
+    - rsi (float64) es: 45.96554073801381
+    - macd (float64) es: -0.0025985719495126
+    - macd_signal (float64) es: -0.0028340492912046
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.4800888708574499
+    - momentum (float64) es: 0.7169682485489897
+    - volatility (float64) es: 0.006825938566553
+    - volume_relative_% (float64) es: 99.8955255673648
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998812675476074
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\XRP-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: XRP-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 2.39635
+    - rsi (float64) es: 37.45850101479815
+    - macd (float64) es: -0.0361425792783083
+    - macd_signal (float64) es: -0.0317531801979349
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.2100866583754814
+    - momentum (float64) es: -1.2429373874412208
+    - volatility (float64) es: 0.0089130086982882
+    - volume_relative_% (float64) es: 103.50643755337288
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.99988055229187
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\XTZ-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: XTZ-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.647
+    - rsi (float64) es: 49.17613378845247
+    - macd (float64) es: -0.0049633019983952
+    - macd_signal (float64) es: -0.0067001976756194
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.7497132204389062
+    - momentum (float64) es: 1.2519561815336473
+    - volatility (float64) es: 0.0046583850931676
+    - volume_relative_% (float64) es: 145.57693223401418
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\YFI-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: YFI-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 5800.23
+    - rsi (float64) es: 44.602992338450726
+    - macd (float64) es: -63.9365196124445
+    - macd_signal (float64) es: -73.3437695416381
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.4811250724748219
+    - momentum (float64) es: 0.8749686952166204
+    - volatility (float64) es: 0.0001069037400791
+    - volume_relative_% (float64) es: 76.25098690005152
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.999881625175476
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ZEC-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ZEC-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 41.82
+    - rsi (float64) es: 51.34980012612228
+    - macd (float64) es: 0.0663468264276687
+    - macd_signal (float64) es: 0.0214050768947434
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.619673422071561
+    - momentum (float64) es: -0.2885005126248831
+    - volatility (float64) es: 0.0063286570252905
+    - volume_relative_% (float64) es: 19.15114124152361
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999281167984008
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ZEN-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ZEN-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 9.735
+    - rsi (float64) es: 45.65587714270089
+    - macd (float64) es: -0.1262196664513499
+    - macd_signal (float64) es: -0.1408342357543894
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.4889519436088565
+    - momentum (float64) es: 1.216469120399242
+    - volatility (float64) es: 0.002677927695952
+    - volume_relative_% (float64) es: 155.62402472476023
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998818635940552
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest\ZRX-USDT.csv
+  ✅ Righe: 1, Colonne: 16
+    - symbol (object) es: ZRX-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.2849
+    - rsi (float64) es: 49.53171937568269
+    - macd (float64) es: -0.0018932980058499
+    - macd_signal (float64) es: -0.0029529375307985
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.755606536664493
+    - momentum (float64) es: 1.3879003558718714
+    - volatility (float64) es: 0.0028159098908833
+    - volume_relative_% (float64) es: 187.05385760121465
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: SHORT
+    - confidence (float64) es: 0.9998818635940552
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/latest_global\predictions_latest.csv
+  ✅ Righe: 84, Colonne: 16
+    - symbol (object) es: BTC-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 104148.1
+    - rsi (float64) es: 60.52016594587754
+    - macd (float64) es: 249.55233504643547
+    - macd_signal (float64) es: 89.05491739812854
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.8614564852928146
+    - momentum (float64) es: 0.8366252275279867
+    - volatility (float64) es: 0.0009687901560155
+    - volume_relative_% (float64) es: 85.29560635483803
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.9999281
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/predictions/top\top_predictions_2025-05-16 03-36-26.csv
+  ✅ Righe: 10, Colonne: 16
+    - symbol (object) es: TRX-USDT
+    - timestamp (object) es: 2025-05-16 03:36:26
+    - price (float64) es: 0.2751
+    - rsi (float64) es: 56.72148331787222
+    - macd (float64) es: 0.0005072435277037
+    - macd_signal (float64) es: 0.0001776016834522
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.7754268122330784
+    - momentum (float64) es: 0.6954612005856562
+    - volatility (float64) es: 0.0032608695652174
+    - volume_relative_% (float64) es: 97.9430446723302
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    - prediction (object) es: LONG
+    - confidence (float64) es: 0.99992824
+    - timeframe (object) es: 3h
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\1INCH-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.23468
+    - close (float64) es: 0.23341
+    - high (float64) es: 0.23568
+    - low (float64) es: 0.2322
+    - volume (float64) es: 7120.0945
+    - turnover (float64) es: 1665.06208144
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\AAVE-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 220.948
+    - close (float64) es: 220.167
+    - high (float64) es: 221.913
+    - low (float64) es: 218.086
+    - volume (float64) es: 451.7043
+    - turnover (float64) es: 99281.0866647
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ADA-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.8109
+    - close (float64) es: 0.8052
+    - high (float64) es: 0.8138
+    - low (float64) es: 0.8004
+    - volume (float64) es: 986095.99
+    - turnover (float64) es: 795389.428016
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ALGO-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.2414
+    - close (float64) es: 0.24
+    - high (float64) es: 0.2428
+    - low (float64) es: 0.2388
+    - volume (float64) es: 99570.8672
+    - turnover (float64) es: 23928.26391882
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ALPHA-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.03057
+    - close (float64) es: 0.03027
+    - high (float64) es: 0.0306
+    - low (float64) es: 0.03027
+    - volume (float64) es: 26591.421
+    - turnover (float64) es: 809.185392354
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ANKR-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.02159
+    - close (float64) es: 0.0213
+    - high (float64) es: 0.02165
+    - low (float64) es: 0.02126
+    - volume (float64) es: 485654.4408
+    - turnover (float64) es: 10397.565260301
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ATOM-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 5.325
+    - close (float64) es: 5.3245
+    - high (float64) es: 5.3359
+    - low (float64) es: 5.2785
+    - volume (float64) es: 1697.0661
+    - turnover (float64) es: 9000.11858365
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\AVAX-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 24.766
+    - close (float64) es: 24.709
+    - high (float64) es: 24.964
+    - low (float64) es: 24.512
+    - volume (float64) es: 14832.0815
+    - turnover (float64) es: 367123.0849583
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\AXS-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 3.135
+    - close (float64) es: 3.125
+    - high (float64) es: 3.143
+    - low (float64) es: 3.099
+    - volume (float64) es: 682.7623
+    - turnover (float64) es: 2127.3750374
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\BAL-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 1.152
+    - close (float64) es: 1.168
+    - high (float64) es: 1.168
+    - low (float64) es: 1.152
+    - volume (float64) es: 15.4392
+    - turnover (float64) es: 17.909472
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\BAND-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.9548
+    - close (float64) es: 0.9436
+    - high (float64) es: 0.9604
+    - low (float64) es: 0.9434
+    - volume (float64) es: 242.514
+    - turnover (float64) es: 230.08872346
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\BAT-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.166
+    - close (float64) es: 0.1651
+    - high (float64) es: 0.166
+    - low (float64) es: 0.1647
+    - volume (float64) es: 529.3365
+    - turnover (float64) es: 87.43263884
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\BCH-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 410.76
+    - close (float64) es: 407.96
+    - high (float64) es: 411.75
+    - low (float64) es: 405.86
+    - volume (float64) es: 74.5777
+    - turnover (float64) es: 30510.830746
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\BTC-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 104357.1
+    - close (float64) es: 103796.5
+    - high (float64) es: 104582.6
+    - low (float64) es: 103573.9
+    - volume (float64) es: 95.13129236
+    - turnover (float64) es: 9887203.198806675
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\CHZ-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.0481
+    - close (float64) es: 0.04784
+    - high (float64) es: 0.04832
+    - low (float64) es: 0.04773
+    - volume (float64) es: 17634.8057
+    - turnover (float64) es: 845.968340619
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\CKB-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.005865
+    - close (float64) es: 0.005839
+    - high (float64) es: 0.005904
+    - low (float64) es: 0.005795
+    - volume (float64) es: 1429561.8004
+    - turnover (float64) es: 8357.8155177152
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\COMP-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 48.25
+    - close (float64) es: 47.62
+    - high (float64) es: 48.29
+    - low (float64) es: 47.62
+    - volume (float64) es: 2.9031
+    - turnover (float64) es: 139.487789
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\COTI-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.085
+    - close (float64) es: 0.0847
+    - high (float64) es: 0.0853
+    - low (float64) es: 0.0843
+    - volume (float64) es: 32138.29
+    - turnover (float64) es: 2727.134454
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\CRV-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.7773
+    - close (float64) es: 0.7737
+    - high (float64) es: 0.7793
+    - low (float64) es: 0.7689
+    - volume (float64) es: 27277.5886
+    - turnover (float64) es: 21064.94688268
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\CTSI-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.0807
+    - close (float64) es: 0.0797
+    - high (float64) es: 0.0807
+    - low (float64) es: 0.0797
+    - volume (float64) es: 168.3718
+    - turnover (float64) es: 13.58623246
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\CVC-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.1147
+    - close (float64) es: 0.1147
+    - high (float64) es: 0.1147
+    - low (float64) es: 0.1147
+    - volume (float64) es: 0.0
+    - turnover (float64) es: 0.0
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\DASH-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 24.78
+    - close (float64) es: 24.69
+    - high (float64) es: 24.84
+    - low (float64) es: 24.59
+    - volume (float64) es: 61.1816
+    - turnover (float64) es: 1510.933084
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\DENT-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.0009815
+    - close (float64) es: 0.0009615
+    - high (float64) es: 0.0009815
+    - low (float64) es: 0.0009615
+    - volume (float64) es: 2361264.2346
+    - turnover (float64) es: 2295.00881281699
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\DGB-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.010687
+    - close (float64) es: 0.010697
+    - high (float64) es: 0.010802
+    - low (float64) es: 0.010675
+    - volume (float64) es: 1093531.9194
+    - turnover (float64) es: 11742.6833048545
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\DODO-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.0605
+    - close (float64) es: 0.0598
+    - high (float64) es: 0.0605
+    - low (float64) es: 0.0597
+    - volume (float64) es: 11312.6157
+    - turnover (float64) es: 675.43088148
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\DOGE-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.23311
+    - close (float64) es: 0.23142
+    - high (float64) es: 0.23456
+    - low (float64) es: 0.22945
+    - volume (float64) es: 3707600.7674
+    - turnover (float64) es: 856985.461946065
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\DOT-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 5.128
+    - close (float64) es: 5.093
+    - high (float64) es: 5.1461
+    - low (float64) es: 5.0579
+    - volume (float64) es: 27959.2985
+    - turnover (float64) es: 142682.62572103
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\EGLD-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 19.58
+    - close (float64) es: 19.39
+    - high (float64) es: 19.67
+    - low (float64) es: 19.32
+    - volume (float64) es: 116.0051
+    - turnover (float64) es: 2253.38368
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ENJ-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.096
+    - close (float64) es: 0.0956
+    - high (float64) es: 0.0964
+    - low (float64) es: 0.0945
+    - volume (float64) es: 58064.8373
+    - turnover (float64) es: 5512.10721041
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\EOS-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.9058
+    - close (float64) es: 0.9155
+    - high (float64) es: 0.9155
+    - low (float64) es: 0.9022
+    - volume (float64) es: 23027.5255
+    - turnover (float64) es: 20925.65492889
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ETC-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 19.992
+    - close (float64) es: 19.835
+    - high (float64) es: 20.0461
+    - low (float64) es: 19.7674
+    - volume (float64) es: 277.657605
+    - turnover (float64) es: 5522.5120370045
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ETH-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 2517.06
+    - close (float64) es: 2503.1
+    - high (float64) es: 2528.54
+    - low (float64) es: 2483.41
+    - volume (float64) es: 3357.76327649
+    - turnover (float64) es: 8410308.306601437
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\FET-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.8588
+    - close (float64) es: 0.8513
+    - high (float64) es: 0.8627
+    - low (float64) es: 0.8445
+    - volume (float64) es: 497003.485
+    - turnover (float64) es: 423518.64852303
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\FIL-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 3.1611
+    - close (float64) es: 3.1435
+    - high (float64) es: 3.1712
+    - low (float64) es: 3.1239
+    - volume (float64) es: 5715.8605
+    - turnover (float64) es: 17931.38275101
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\FORTH-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 3.098
+    - close (float64) es: 3.0638
+    - high (float64) es: 3.098
+    - low (float64) es: 3.0578
+    - volume (float64) es: 301.5453
+    - turnover (float64) es: 927.7702385
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\GRT-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.11913
+    - close (float64) es: 0.11799
+    - high (float64) es: 0.11965
+    - low (float64) es: 0.11733
+    - volume (float64) es: 88860.215
+    - turnover (float64) es: 10478.36740449
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\HNT-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 3.974
+    - close (float64) es: 3.947
+    - high (float64) es: 3.976
+    - low (float64) es: 3.941
+    - volume (float64) es: 496.2368
+    - turnover (float64) es: 1966.0619563
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ICP-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 5.773
+    - close (float64) es: 5.75
+    - high (float64) es: 5.792
+    - low (float64) es: 5.709
+    - volume (float64) es: 4731.1341
+    - turnover (float64) es: 27220.2882483
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ICX-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.1094
+    - close (float64) es: 0.1085
+    - high (float64) es: 0.1096
+    - low (float64) es: 0.1083
+    - volume (float64) es: 9299.4543
+    - turnover (float64) es: 1014.9240351
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\IOST-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.00436
+    - close (float64) es: 0.004318
+    - high (float64) es: 0.004375
+    - low (float64) es: 0.004318
+    - volume (float64) es: 108661.501
+    - turnover (float64) es: 471.2263040642
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\JST-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.0375
+    - close (float64) es: 0.03746
+    - high (float64) es: 0.03751
+    - low (float64) es: 0.03731
+    - volume (float64) es: 9703.9
+    - turnover (float64) es: 363.323538
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\KAVA-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.4893
+    - close (float64) es: 0.4865
+    - high (float64) es: 0.4906
+    - low (float64) es: 0.4865
+    - volume (float64) es: 5086.8735
+    - turnover (float64) es: 2481.91687845
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\KMD-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.1629
+    - close (float64) es: 0.1628
+    - high (float64) es: 0.1629
+    - low (float64) es: 0.1628
+    - volume (float64) es: 1024.2581
+    - turnover (float64) es: 166.76036184
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\KSM-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 18.81
+    - close (float64) es: 18.75
+    - high (float64) es: 18.88
+    - low (float64) es: 18.66
+    - volume (float64) es: 84.73
+    - turnover (float64) es: 1589.4678
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\LINK-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 17.06
+    - close (float64) es: 16.9692
+    - high (float64) es: 17.1541
+    - low (float64) es: 16.8581
+    - volume (float64) es: 13408.7864
+    - turnover (float64) es: 227971.44479273
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\LRC-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.1218
+    - close (float64) es: 0.1205
+    - high (float64) es: 0.1227
+    - low (float64) es: 0.1205
+    - volume (float64) es: 2075.2059
+    - turnover (float64) es: 252.38728701
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\LTC-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 100.427
+    - close (float64) es: 99.763
+    - high (float64) es: 100.778
+    - low (float64) es: 99.355
+    - volume (float64) es: 3749.76
+    - turnover (float64) es: 374793.10056
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\MANA-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.36868
+    - close (float64) es: 0.36715
+    - high (float64) es: 0.36988
+    - low (float64) es: 0.3647
+    - volume (float64) es: 3323.9316
+    - turnover (float64) es: 1218.968029285
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\MTL-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.9166
+    - close (float64) es: 0.9108
+    - high (float64) es: 0.9214
+    - low (float64) es: 0.9108
+    - volume (float64) es: 1065.3315
+    - turnover (float64) es: 978.4038644
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\NEAR-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 3.1476
+    - close (float64) es: 3.1413
+    - high (float64) es: 3.1599
+    - low (float64) es: 3.1173
+    - volume (float64) es: 117613.9828
+    - turnover (float64) es: 368507.30922372
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\NKN-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.0412
+    - close (float64) es: 0.041
+    - high (float64) es: 0.0414
+    - low (float64) es: 0.0409
+    - volume (float64) es: 64373.05
+    - turnover (float64) es: 2644.059164
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\OGN-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.07007
+    - close (float64) es: 0.06994
+    - high (float64) es: 0.07023
+    - low (float64) es: 0.06991
+    - volume (float64) es: 45060.6783
+    - turnover (float64) es: 3158.955198102
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\OMG-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.2153
+    - close (float64) es: 0.2147
+    - high (float64) es: 0.2153
+    - low (float64) es: 0.2147
+    - volume (float64) es: 5885.7298
+    - turnover (float64) es: 1263.76227865
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ONT-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.17143
+    - close (float64) es: 0.17106
+    - high (float64) es: 0.17248
+    - low (float64) es: 0.17071
+    - volume (float64) es: 17281.4265
+    - turnover (float64) es: 2959.908906967
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\PERP-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.3479
+    - close (float64) es: 0.3503
+    - high (float64) es: 0.3503
+    - low (float64) es: 0.3479
+    - volume (float64) es: 513.4073
+    - turnover (float64) es: 179.83839967
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\PHA-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.141
+    - close (float64) es: 0.1404
+    - high (float64) es: 0.1412
+    - low (float64) es: 0.1396
+    - volume (float64) es: 122037.8933
+    - turnover (float64) es: 17118.57958989
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\POLS-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.2393
+    - close (float64) es: 0.2371
+    - high (float64) es: 0.2462
+    - low (float64) es: 0.2371
+    - volume (float64) es: 10200.1303
+    - turnover (float64) es: 2467.63557694
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\QTUM-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 2.52
+    - close (float64) es: 2.509
+    - high (float64) es: 2.524
+    - low (float64) es: 2.509
+    - volume (float64) es: 79.3
+    - turnover (float64) es: 199.75348
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\REEF-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.000488
+    - close (float64) es: 0.000492
+    - high (float64) es: 0.000492
+    - low (float64) es: 0.000488
+    - volume (float64) es: 80698.4202
+    - turnover (float64) es: 39.5767508352
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\REN-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.01056
+    - close (float64) es: 0.01053
+    - high (float64) es: 0.01061
+    - low (float64) es: 0.01048
+    - volume (float64) es: 106996.6766
+    - turnover (float64) es: 1129.402925513
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\RLC-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 1.3666
+    - close (float64) es: 1.3479
+    - high (float64) es: 1.3666
+    - low (float64) es: 1.3479
+    - volume (float64) es: 53.1801
+    - turnover (float64) es: 71.90700919
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\RSR-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.010203
+    - close (float64) es: 0.010059
+    - high (float64) es: 0.010264
+    - low (float64) es: 0.009998
+    - volume (float64) es: 999788.5609
+    - turnover (float64) es: 10110.0316275016
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\RUNE-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 1.745
+    - close (float64) es: 1.7244
+    - high (float64) es: 1.7529
+    - low (float64) es: 1.7174
+    - volume (float64) es: 46267.0075
+    - turnover (float64) es: 80183.11467177
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\SAND-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.35854
+    - close (float64) es: 0.35756
+    - high (float64) es: 0.36037
+    - low (float64) es: 0.35462
+    - volume (float64) es: 34014.4232
+    - turnover (float64) es: 12118.284354409
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\SNX-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.876
+    - close (float64) es: 0.867
+    - high (float64) es: 0.879
+    - low (float64) es: 0.863
+    - volume (float64) es: 24716.82
+    - turnover (float64) es: 21496.02703
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\SOL-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 173.167
+    - close (float64) es: 171.944
+    - high (float64) es: 173.852
+    - low (float64) es: 171.272
+    - volume (float64) es: 25139.5714
+    - turnover (float64) es: 4329898.4869306
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\STORJ-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.3356
+    - close (float64) es: 0.3319
+    - high (float64) es: 0.3358
+    - low (float64) es: 0.3319
+    - volume (float64) es: 577.9833
+    - turnover (float64) es: 192.88366922
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\STRAX-USDT.csv
+  ✅ Righe: 98, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.05807
+    - close (float64) es: 0.05901
+    - high (float64) es: 0.05901
+    - low (float64) es: 0.05807
+    - volume (float64) es: 1197.4
+    - turnover (float64) es: 70.589316
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\SUSHI-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.8186
+    - close (float64) es: 0.8106
+    - high (float64) es: 0.8201
+    - low (float64) es: 0.8093
+    - volume (float64) es: 1312.4724
+    - turnover (float64) es: 1064.73755149
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\SXP-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.2296
+    - close (float64) es: 0.2286
+    - high (float64) es: 0.2311
+    - low (float64) es: 0.2286
+    - volume (float64) es: 2855.5889
+    - turnover (float64) es: 656.3295792
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\THETA-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.9958
+    - close (float64) es: 0.9916
+    - high (float64) es: 1.0018
+    - low (float64) es: 0.986
+    - volume (float64) es: 12602.7039
+    - turnover (float64) es: 12494.52551473
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\TRX-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.2655
+    - close (float64) es: 0.2651
+    - high (float64) es: 0.2657
+    - low (float64) es: 0.2645
+    - volume (float64) es: 378146.02
+    - turnover (float64) es: 100196.530522
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\UNI-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 6.9679
+    - close (float64) es: 6.9024
+    - high (float64) es: 6.9879
+    - low (float64) es: 6.845
+    - volume (float64) es: 7870.4071
+    - turnover (float64) es: 54274.52039349
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\VET-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.03133
+    - close (float64) es: 0.03123
+    - high (float64) es: 0.03147
+    - low (float64) es: 0.03102
+    - volume (float64) es: 986282.2
+    - turnover (float64) es: 30774.290229
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\WAVES-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 1.3114
+    - close (float64) es: 1.3377
+    - high (float64) es: 1.3377
+    - low (float64) es: 1.3106
+    - volume (float64) es: 8968.9969
+    - turnover (float64) es: 11914.61222637
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\WIN-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 6.431e-05
+    - close (float64) es: 6.359e-05
+    - high (float64) es: 6.452e-05
+    - low (float64) es: 6.342e-05
+    - volume (float64) es: 34415252.6157
+    - turnover (float64) es: 2201.311120511879
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\XEM-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.019225
+    - close (float64) es: 0.019091
+    - high (float64) es: 0.019275
+    - low (float64) es: 0.019035
+    - volume (float64) es: 100813.6023
+    - turnover (float64) es: 1921.8215310646
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\XLM-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.3083
+    - close (float64) es: 0.3066
+    - high (float64) es: 0.3093
+    - low (float64) es: 0.3045
+    - volume (float64) es: 236982.02
+    - turnover (float64) es: 72680.704337
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\XRP-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 2.37113
+    - close (float64) es: 2.36696
+    - high (float64) es: 2.38
+    - low (float64) es: 2.35588
+    - volume (float64) es: 1193106.333
+    - turnover (float64) es: 2823229.060625002
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\XTZ-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.671
+    - close (float64) es: 0.668
+    - high (float64) es: 0.673
+    - low (float64) es: 0.666
+    - volume (float64) es: 523.38
+    - turnover (float64) es: 350.99667
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\YFI-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 6413.74
+    - close (float64) es: 6353.4
+    - high (float64) es: 6422.39
+    - low (float64) es: 6350.75
+    - volume (float64) es: 4.271238
+    - turnover (float64) es: 27292.10865504
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ZEC-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 45.1
+    - close (float64) es: 45.234
+    - high (float64) es: 45.841
+    - low (float64) es: 45.1
+    - volume (float64) es: 2887.6742
+    - turnover (float64) es: 130653.956393
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ZEN-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 10.512
+    - close (float64) es: 10.485
+    - high (float64) es: 10.578
+    - low (float64) es: 10.39
+    - volume (float64) es: 681.8961
+    - turnover (float64) es: 7132.6724427
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/real_data\ZRX-USDT.csv
+  ✅ Righe: 100, Colonne: 7
+    - timestamp (object) es: 2025-05-11 22:00:00
+    - open (float64) es: 0.3034
+    - close (float64) es: 0.2987
+    - high (float64) es: 0.3034
+    - low (float64) es: 0.2987
+    - volume (float64) es: 249.735
+    - turnover (float64) es: 74.92612614
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/dataset\rsi_signals_filtered_2025-05-11.csv
+  ✅ Righe: 84, Colonne: 13
+    - symbol (object) es: BTC-USDT
+    - timestamp (object) es: 2025-05-11 16:00:00
+    - price (float64) es: 103836.9
+    - rsi (float64) es: 48.98466673438403
+    - macd (float64) es: 175.4617902422469
+    - macd_signal (float64) es: 223.30416960435105
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.3282607880087357
+    - momentum (float64) es: -0.7757382557069538
+    - volatility (float64) es: 0.0029143348786829
+    - volume_relative_% (float64) es: 77.95005005452981
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/dataset\rsi_signals_filtered_2025-05-12.csv
+  ✅ Righe: 84, Colonne: 13
+    - symbol (object) es: BTC-USDT
+    - timestamp (object) es: 2025-05-12 19:00:00
+    - price (float64) es: 101886.7
+    - rsi (float64) es: 33.5739077283866
+    - macd (float64) es: -501.6189832696691
+    - macd_signal (float64) es: -233.44197525464105
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.0120010968528832
+    - momentum (float64) es: -0.886206598007543
+    - volatility (float64) es: 0.0025919252769788
+    - volume_relative_% (float64) es: 32.79463142786344
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/dataset\rsi_signals_filtered_2025-05-13.csv
+  ✅ Righe: 84, Colonne: 13
+    - symbol (object) es: BTC-USDT
+    - timestamp (object) es: 2025-05-13 21:00:00
+    - price (float64) es: 104344.1
+    - rsi (float64) es: 59.716632995829954
+    - macd (float64) es: 372.5377766645543
+    - macd_signal (float64) es: 210.0358383709758
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.7835146604608182
+    - momentum (float64) es: 0.5986124608573672
+    - volatility (float64) es: 0.0020008933242661
+    - volume_relative_% (float64) es: 37.21062746962148
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/dataset\rsi_signals_filtered_2025-05-14.csv
+  ✅ Righe: 84, Colonne: 13
+    - symbol (object) es: BTC-USDT
+    - timestamp (object) es: 2025-05-14 18:00:00
+    - price (float64) es: 103108.7
+    - rsi (float64) es: 41.65770576528912
+    - macd (float64) es: -82.04020892106928
+    - macd_signal (float64) es: 4.571048543089127
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.0281870561340897
+    - momentum (float64) es: -0.8105718735600284
+    - volatility (float64) es: 0.0013569164968504
+    - volume_relative_% (float64) es: 19.168075332538724
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/dataset\rsi_signals_filtered_2025-05-15.csv
+  ✅ Righe: 84, Colonne: 13
+    - symbol (object) es: BTC-USDT
+    - timestamp (object) es: 2025-05-15 18:00:00
+    - price (float64) es: 102953.7
+    - rsi (float64) es: 50.122932482025305
+    - macd (float64) es: -32.63646115928714
+    - macd_signal (float64) es: -204.9519503115542
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.586303294536452
+    - momentum (float64) es: 0.8022770019474301
+    - volatility (float64) es: 0.0097806495297709
+    - volume_relative_% (float64) es: 96.94554391068029
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/dataset\rsi_signals_filtered_2025-05-16.csv
+  ✅ Righe: 84, Colonne: 13
+    - symbol (object) es: BTC-USDT
+    - timestamp (object) es: 2025-05-16 02:00:00
+    - price (float64) es: 104148.1
+    - rsi (float64) es: 60.52016594587754
+    - macd (float64) es: 249.55233504643547
+    - macd_signal (float64) es: 89.05491739812854
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.8614564852928146
+    - momentum (float64) es: 0.8366252275279867
+    - volatility (float64) es: 0.0009687901560155
+    - volume_relative_% (float64) es: 85.29560635483803
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/dataset\rsi_signals_filtered_latest.csv
+  ✅ Righe: 84, Colonne: 13
+    - symbol (object) es: BTC-USDT
+    - timestamp (object) es: 2025-05-16 02:00:00
+    - price (float64) es: 104148.1
+    - rsi (float64) es: 60.52016594587754
+    - macd (float64) es: 249.55233504643547
+    - macd_signal (float64) es: 89.05491739812854
+    - ema_trend (int64) es: 1
+    - bollinger_pos (float64) es: 0.8614564852928146
+    - momentum (float64) es: 0.8366252275279867
+    - volatility (float64) es: 0.0009687901560155
+    - volume_relative_% (float64) es: 85.29560635483803
+    - sentiment_score (float64) es: 0.0
+    - signal (object) es: NEUTRO
+    ⏱️ Timestamp: formato OK
+
+📄 File: data/dataset\training_memory_long_short.csv
+  ✅ Righe: 1000, Colonne: 13
+    - timestamp (object) es: 2025-05-13 08:54:33.077481
+    - symbol (object) es: SOL-USDT
+    - close (float64) es: 31846.802747596445
+    - rsi (float64) es: 79.84035776793718
+    - macd (float64) es: -1.4407908129375868
+    - macd_signal (float64) es: -1.2657112166459252
+    - ema_trend (int64) es: 0
+    - bollinger_pos (float64) es: 0.650702150850092
+    - momentum (float64) es: -2.7461056475092285
+    - volatility (float64) es: 0.0294443827570076
+    - volume_relative_% (float64) es: 49.78034452603811
+    - sentiment_score (float64) es: -0.8436375490983767
+    - signal (object) es: SHORT
+    ⏱️ Timestamp: formato OK

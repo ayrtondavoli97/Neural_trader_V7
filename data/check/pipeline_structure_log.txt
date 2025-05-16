@@ -1,0 +1,80 @@
+🔍 Avvio analisi pipeline NeuralTrader...
+
+
+📄 colonne_check.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 daily_cycle_v7.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 dataset_builder.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 debug_real_data.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 evaluator_v7.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 manual_paper_cycle.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 neural_checker_dashboard.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 paper_trader.py
+  🔸 Legge:
+    - open_positions.csv
+  🔹 Scrive:
+
+📄 predictor_v7.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 real_data_collector.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 retrainer_v7.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 scanner.py
+  🔸 Legge:
+  🔹 Scrive:
+    - rsi_signals_filtered_latest.csv
+
+📄 shift_real_data_timestamps.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 telegram_notifier.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 trainer.py
+  🔸 Legge:
+  🔹 Scrive:
+
+📄 transformers_trainer.py
+  🔸 Legge:
+  🔹 Scrive:
+    - training_log.csv
+
+📄 watchdog_monitor.py
+  🔸 Legge:
+  🔹 Scrive:
+
+🧠 Verifica corrispondenze tra output e input...
+
+⚠️  paper_trader.py legge 'open_positions.csv' ma nessuno lo produce!
+
+✅ Analisi completata.
+

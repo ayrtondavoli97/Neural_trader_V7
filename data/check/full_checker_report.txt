@@ -1,0 +1,24 @@
+==============================
+ NEURALTRADER SYSTEM CHECKER 
+==============================
+
+🕒 CHECK 1: Timestamp Consistency tra predizioni e real_data
+⏳ predictions_2025-05-16 03-36-26.csv → dati non maturi per: ['BTC-USDT', 'ETH-USDT', 'SOL-USDT', 'XRP-USDT', 'ADA-USDT', 'DOGE-USDT', 'DOT-USDT', 'TRX-USDT', 'LTC-USDT', 'AVAX-USDT', 'UNI-USDT', 'BCH-USDT', 'LINK-USDT', 'ATOM-USDT', 'ETC-USDT', 'FIL-USDT', 'XLM-USDT', 'NEAR-USDT', 'ALGO-USDT', 'VET-USDT', 'ICP-USDT', 'EOS-USDT', 'AAVE-USDT', 'XTZ-USDT', 'SAND-USDT', 'MANA-USDT', 'THETA-USDT', 'EGLD-USDT', 'AXS-USDT', 'KSM-USDT', 'RUNE-USDT', 'ZEC-USDT', 'DASH-USDT', 'ENJ-USDT', 'CHZ-USDT', 'GRT-USDT', 'CRV-USDT', 'SNX-USDT', 'COMP-USDT', 'YFI-USDT', '1INCH-USDT', 'BAT-USDT', 'REN-USDT', 'ZRX-USDT', 'OMG-USDT', 'QTUM-USDT', 'IOST-USDT', 'KAVA-USDT', 'CVC-USDT', 'ANKR-USDT', 'STORJ-USDT', 'ZEN-USDT', 'LRC-USDT', 'BAL-USDT', 'HNT-USDT', 'CKB-USDT', 'RSR-USDT', 'SXP-USDT', 'DGB-USDT', 'XEM-USDT', 'STRAX-USDT', 'WAVES-USDT', 'ICX-USDT', 'ONT-USDT', 'BAND-USDT', 'NKN-USDT', 'COTI-USDT', 'DENT-USDT', 'WIN-USDT', 'MTL-USDT', 'PERP-USDT', 'ALPHA-USDT', 'FET-USDT', 'REEF-USDT', 'SUSHI-USDT', 'KMD-USDT', 'POLS-USDT', 'RLC-USDT', 'CTSI-USDT', 'DODO-USDT', 'FORTH-USDT', 'JST-USDT', 'OGN-USDT', 'PHA-USDT']
+
+📊 CHECK 2: Andamento storico training_memory_extended.csv
+❌ File non trovato: training_memory_extended.csv
+
+📌 CHECK 3: Controllo qualità predizioni_latest.csv
+✅ Predizioni totali: 84
+  - SHORT: 75
+  - LONG: 9
+🔝 Predizioni con alta confidenza (>=0.9): 84
+
+🧠 CHECK 4: Flusso logico dati (statico)
+→ scanner.py → rsi_signals_filtered_latest.csv
+→ predictor.py → predictions_*.csv / top_predictions / latest_global
+→ real_data_collector.py → real_data/{symbol}.csv
+→ evaluator.py → evaluation_*.csv
+→ retrainer.py → training_memory_extended.csv
+→ trainer.py → transformer_model.pt, scaler.pkl, label_encoder.pkl
+→ predictor.py → predizioni nuove

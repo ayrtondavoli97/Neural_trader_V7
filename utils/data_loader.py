@@ -1,0 +1,1 @@
+# Funzioni per caricare i dati
