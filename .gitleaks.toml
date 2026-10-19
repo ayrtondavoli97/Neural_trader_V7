@@ -1,0 +1,12 @@
+[extend]
+useDefault = true
+
+[[rules]]
+id = "telegram-token-inclusive"
+description = "Telegram tokens, including API URL paths"
+regex = '''(\d{5,15}:[A-Za-z0-9_-]{30,50})'''
+secretGroup = 1
+
+[[allowlists]]
+description = "Generated dependency and bytecode directories"
+paths = ['''(?:^|[/\\])(?:node_modules|__pycache__|\.git|venv|\.venv)(?:[/\\]|$)''']
