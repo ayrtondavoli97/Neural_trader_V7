@@ -1,3 +1,5 @@
+import os
+import re
 import requests
 import pandas as pd
 
@@ -9,15 +11,15 @@ TELEGRAM_ENABLED = True  # Toggle globale
 
 # === FUNZIONE BASE ===
 def send_telegram_message(message):
-    if not TELEGRAM_ENABLED:
+    if not TELEGRAM_ENABLED or not BOT_TOKEN or not CHAT_ID:
         print("[DEBUG] Telegram disattivato")
         return
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    payload = {"chat_id": CHAT_ID, "text": message, "parse_mode": "Markdown"}
+    payload = {"chat_id": CHAT_ID, "text": re.sub(r"(?<!\d)\d{5,15}:[A-Za-z0-9_-]{30,50}(?![A-Za-z0-9_-])", "[REDACTED]", str(message)), "parse_mode": "Markdown"}
     try:
-        requests.post(url, data=payload)
+        requests.post(url, data=payload, timeout=15).raise_for_status()
     except Exception as e:
-        print(f"[ERRORE] Telegram: {e}")
+        print(f"[ERRORE] Telegram: {type(e).__name__}")
 
 # === INVIO TOP 10 PREDIZIONI ===
 def send_top_predictions(filepath):
