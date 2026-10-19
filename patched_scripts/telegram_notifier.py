@@ -1,8 +1,9 @@
+import os
 import requests
 import pandas as pd
 
 # === CONFIG ===
-BOT_TOKEN = "7961694843:AAFaqnAs3u5_017MPfUUdSy6Hkv03o1l9js"
+BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = "495456933"
 
 TELEGRAM_ENABLED = True  # Toggle globale
